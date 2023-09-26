@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomCalc</string>
+    <string name="convert_to_inches">Convert to Inches</string>
+    <string name="convert_to_cm">Convert to CM</string>
+    <string name="result_will_be_displayed_here">Result will be displayed here</string>
+    <string name="enter_value_e_g_5_cm_or_2_in">Enter value (e.g. 5 cm or 2 in)</string>
+</resources>

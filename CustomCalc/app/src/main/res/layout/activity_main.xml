@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    >
+
+    <!-- Input EditText for the user to enter the value -->
+    <EditText
+        android:id="@+id/inputValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter value"
+        android:inputType="numberDecimal"
+        android:backgroundTint="?attr/colorPrimary"
+        android:textColor="?attr/colorOnSurface"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- Button for converting to inches -->
+    <Button
+        android:id="@+id/buttonToInches"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Convert to Inches"
+        android:textColor="?attr/colorOnPrimary"
+        android:backgroundTint="?attr/colorPrimary"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- Button for converting to cm -->
+    <Button
+        android:id="@+id/buttonToCm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Convert to CM"
+        android:textColor="?attr/colorOnSecondary"
+        android:backgroundTint="?attr/colorSecondary"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- TextView to display the result -->
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Result will be displayed here"
+        android:textColor="?attr/colorOnBackground"
+        android:textSize="18sp"
+        />
+
+</LinearLayout>
