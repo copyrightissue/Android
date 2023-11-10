@@ -1,18 +1,20 @@
 package com.example.chitter
+
+import android.os.Bundle
 import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.example.chitter.BirdAdapter
-import com.example.chitter.BirdViewModel
-
-
+import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.chitter.databinding.FragmentBirdListBinding
 
 class BirdListFragment : Fragment() {
 
     private val viewModel: BirdViewModel by viewModels()
     private var _binding: FragmentBirdListBinding? = null
     private val binding get() = _binding!!
-    private lateinit var adapter: BirdAdapter
+    private lateinit var birdAdapter: BirdAdapter
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -25,16 +27,17 @@ class BirdListFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        adapter = BirdListAdapter(viewModel.birds.value ?: arrayListOf()) { bird ->
-            viewModel.toggleBirdSeen(bird.id)
+        birdAdapter = BirdAdapter(emptyList()) { birdId, seen ->
+            viewModel.toggleBirdSeen(birdId, seen)
         }
 
-        binding.birdListRecyclerView.layoutManager = LinearLayoutManager(context)
-        binding.birdListRecyclerView.adapter = adapter
+        binding.birdListRecyclerView.apply {
+            layoutManager = LinearLayoutManager(context)
+            adapter = birdAdapter
+        }
 
         viewModel.birds.observe(viewLifecycleOwner) { birds ->
-            adapter = BirdAdapter(birds, viewModel::toggleBirdSeen)
-            binding.birdListRecyclerView.adapter = adapter
+            birdAdapter.updateBirds(birds)
         }
 
         binding.submitButton.setOnClickListener {

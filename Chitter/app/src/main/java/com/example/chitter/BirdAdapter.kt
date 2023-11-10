@@ -7,35 +7,40 @@ import com.example.chitter.databinding.ItemBirdBinding
 import com.example.chitter.model.Bird
 
 class BirdAdapter(
-    private val birds: List<Bird>,
-    private val onBirdSeenChanged: (Bird) -> Unit
+    private var birds: List<Bird>,
+    private val onBirdSeenChanged: (Int, Boolean) -> Unit
 ) : RecyclerView.Adapter<BirdAdapter.BirdViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BirdViewHolder {
         val binding = ItemBirdBinding.inflate(LayoutInflater.from(parent.context), parent, false)
-        return BirdViewHolder(binding)
+        return BirdViewHolder(binding, onBirdSeenChanged)
     }
 
     override fun onBindViewHolder(holder: BirdViewHolder, position: Int) {
-        val bird = birds[position]
-        holder.bind(bird, onBirdSeenChanged)
+        holder.bind(birds[position])
     }
 
     override fun getItemCount(): Int = birds.size
 
     class BirdViewHolder(
-        private val binding: ItemBirdBinding
+        private val binding: ItemBirdBinding,
+        private val onBirdSeenChanged: (Int, Boolean) -> Unit
     ) : RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(bird: Bird, onBirdSeenChanged: (Bird) -> Unit) {
+        fun bind(bird: Bird) {
             binding.birdName.text = bird.name
             binding.birdImage.setImageResource(bird.imageResourceId)
             binding.birdSeen.isChecked = bird.seen
             binding.birdSeen.setOnCheckedChangeListener { _, isChecked ->
                 if (bird.seen != isChecked) {
-                    onBirdSeenChanged(bird)
+                    onBirdSeenChanged(bird.id, isChecked)
                 }
             }
         }
+    }
+
+    fun updateBirds(newBirds: List<Bird>) {
+        birds = newBirds
+        notifyDataSetChanged()
     }
 }

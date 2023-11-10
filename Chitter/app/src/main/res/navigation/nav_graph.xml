@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/FirstFragment">
+    app:startDestination="@id/birdListFragment">
 
     <fragment
-        android:id="@+id/FirstFragment"
+        android:id="@+id/birdListFragment"
         android:name="com.example.chitter.BirdListFragment"
-        android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        android:label="fragment_bird_list"
+        tools:layout="@layout/fragment_bird_list">
 
         <action
-            android:id="@+id/action_FirstFragment_to_SecondFragment"
-            app:destination="@id/SecondFragment" />
+            android:id="@+id/action_birdListFragment_to_birdDetailsFragment"
+            app:destination="@id/birdDetailsFragment" />
     </fragment>
-    <fragment
-        android:id="@+id/SecondFragment"
-        android:name="com.example.chitter.BirdDetailsFragment"
-        android:label="@string/second_fragment_label"
-        tools:layout="@layout/fragment_second">
 
-        <action
-            android:id="@+id/action_SecondFragment_to_FirstFragment"
-            app:destination="@id/FirstFragment" />
+    <fragment
+        android:id="@+id/birdDetailsFragment"
+        android:name="com.example.chitter.BirdDetailsFragment"
+        android:label="fragment_bird_details"
+        tools:layout="@layout/fragment_bird_details">
+        <argument
+            android:name="birdId"
+            app:argType="integer" />
     </fragment>
 </navigation>
