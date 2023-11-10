@@ -13,6 +13,9 @@
         <action
             android:id="@+id/action_birdListFragment_to_birdDetailsFragment"
             app:destination="@id/birdDetailsFragment" />
+        <action
+            android:id="@+id/action_birdListFragment_to_birdDetailsFragment2"
+            app:destination="@id/birdDetailsFragment" />
     </fragment>
 
     <fragment

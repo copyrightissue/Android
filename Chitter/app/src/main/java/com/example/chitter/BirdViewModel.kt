@@ -11,9 +11,10 @@ class BirdViewModel : ViewModel() {
     val birds: LiveData<List<Bird>> = _birds
 
     fun toggleBirdSeen(birdId: Int, seen: Boolean) {
-        _birds.value = _birds.value?.map { bird ->
+        val updatedBirds = _birds.value?.map { bird ->
             if (bird.id == birdId) bird.copy(seen = seen) else bird
         }
+        _birds.value = updatedBirds
     }
 
     fun calculateScore(): Int {
@@ -23,5 +24,9 @@ class BirdViewModel : ViewModel() {
     }
     fun getBirdById(birdId: Int): Bird? {
         return birds.value?.find { it.id == birdId }
+    }
+    fun resetBirdsSeenStatus() {
+        val updatedBirds = _birds.value?.map { it.copy(seen = false) }
+        _birds.postValue(updatedBirds)
     }
 }
