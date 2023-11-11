@@ -7,7 +7,7 @@
     <fragment
         android:id="@+id/birdListFragment"
         android:name="com.example.chitter.BirdListFragment"
-        android:label="fragment_bird_list"
+        android:label="Chitter: a birding app"
         tools:layout="@layout/fragment_bird_list">
 
         <action
@@ -21,7 +21,7 @@
     <fragment
         android:id="@+id/birdDetailsFragment"
         android:name="com.example.chitter.BirdDetailsFragment"
-        android:label="fragment_bird_details"
+        android:label="Details"
         tools:layout="@layout/fragment_bird_details">
         <argument
             android:name="birdId"

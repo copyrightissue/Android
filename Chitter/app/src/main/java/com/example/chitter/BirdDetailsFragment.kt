@@ -40,6 +40,7 @@ class BirdDetailsFragment : Fragment() {
                 binding.imageBird.setImageResource(birdData.imageResourceId)
                 binding.textBirdName.text = birdData.name
                 binding.textBirdDescription.text = birdData.description
+                binding.textBirdPoints.text = "Points: ${birdData.points}"
             }
         }
     }

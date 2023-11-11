@@ -2,15 +2,19 @@ package com.example.chitter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import android.widget.Filter
+import android.widget.Filterable
 import androidx.recyclerview.widget.RecyclerView
 import com.example.chitter.databinding.ItemBirdBinding
 import com.example.chitter.model.Bird
+import java.util.Locale
 
 class BirdAdapter(
     private var birds: List<Bird>,
+    private var birdsFull: List<Bird> = ArrayList(birds),
     private val onBirdSeenChanged: (Int, Boolean) -> Unit,
     private val onItemClicked: (Bird) -> Unit
-) : RecyclerView.Adapter<BirdAdapter.BirdViewHolder>() {
+) : RecyclerView.Adapter<BirdAdapter.BirdViewHolder>(), Filterable {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BirdViewHolder {
         val binding = ItemBirdBinding.inflate(LayoutInflater.from(parent.context), parent, false)
@@ -47,7 +51,28 @@ class BirdAdapter(
             }
         }
     }
+    override fun getFilter(): Filter {
+        return object : Filter() {
+            override fun performFiltering(constraint: CharSequence?): FilterResults {
+                val filteredList = if (constraint.isNullOrEmpty()) {
+                    birdsFull
+                } else {
+                    val filterPattern = constraint.toString().lowercase(Locale.ROOT).trim()
+                    birdsFull.filter { bird ->
+                        bird.name.lowercase(Locale.ROOT).contains(filterPattern)
+                    }
+                }
 
+                return FilterResults().apply { values = filteredList }
+            }
+
+            override fun publishResults(constraint: CharSequence?, results: FilterResults?) {
+                @Suppress("UNCHECKED_CAST")
+                birds = results?.values as List<Bird>
+                notifyDataSetChanged()
+            }
+        }
+    }
     fun updateBirds(newBirds: List<Bird>) {
         birds = newBirds
         notifyDataSetChanged()

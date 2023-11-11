@@ -47,6 +47,35 @@ object BirdsData {
                 imageResourceId = R.drawable.img_goldfinch,
                 points = 5
             ),
+            Bird(
+                id = 7,
+                name = "Hummingbird",
+                description = "Description: Hummingbird's are tiny birds with long, slender bills and fast-beating wings. They are common in gardens, woodlands, and parks. They eat nectar from flowers, and drink sugar water from feeders. They are especially attracted to red flowers and feeders.",
+                imageResourceId = R.drawable.img_hummingbird,
+                points = 5
+            ),
+            Bird(
+                id = 8,
+                name = "House Sparrow",
+                description = "Description: House Sparrow's are small, plump, brown and gray birds with short tails and stubby, powerful beaks. They are common in urban areas, where they can be found around homes, buildings, and parking lots. They eat seeds and insects, and often gather in noisy flocks.",
+                imageResourceId = R.drawable.img_housesparrow,
+                points = 1
+            ),
+            Bird(
+                id = 9,
+                name = "American Robin",
+                description = "Description: American Robin's are large thrushes with gray-brown backs, orange bellies, and reddish-orange breasts. They are common in woodlands, gardens, parks, and backyards. They eat insects, earthworms, and berries, and are frequent visitors to bird feeders.",
+                imageResourceId = R.drawable.img_robin,
+                points = 2
+            ),
+            Bird(
+                id = 10,
+                name = "LongSpur",
+                description = "Description: LongSpur's are small, plump birds with short tails and short, conical bills. They are common in grasslands and fields, where they eat seeds and insects. They are often found in flocks, and are especially common in the winter.",
+                imageResourceId = R.drawable.img_longspur,
+                points = 3
+            ),
+
 
 
         )
