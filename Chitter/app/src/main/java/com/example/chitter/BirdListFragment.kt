@@ -99,9 +99,9 @@ class BirdListFragment : Fragment() {
 
     private fun showScorePopup(score: Int) {
         AlertDialog.Builder(requireContext())
-            .setTitle("Total Score")
-            .setMessage("Your total score is: $score")
-            .setPositiveButton("OK", null)
+            .setTitle("Total Chirps")
+            .setMessage("You've earned: $score Chirps!")
+            .setPositiveButton("Cool", null)
             .setOnDismissListener {
                 // Post the adapter update to the main thread's message queue
                 Handler(Looper.getMainLooper()).post {

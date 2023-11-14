@@ -14,9 +14,7 @@ class BirdDetailsFragment : Fragment() {
     private val binding get() = _binding!!
 
     private val viewModel: BirdViewModel by lazy {
-        // Assuming you're using a ViewModelProvider to create your ViewModel
-        // ViewModelProvider(this).get(BirdViewModel::class.java)
-        // For simplicity in this example, we're directly instantiating it
+
         BirdViewModel()
     }
 
@@ -32,7 +30,7 @@ class BirdDetailsFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         // Retrieve and display the bird details
-        // Assuming you're passing the bird ID as a fragment argument
+
         arguments?.let {
             val safeArgs = BirdDetailsFragmentArgs.fromBundle(it)
             val bird = viewModel.getBirdById(safeArgs.birdId)
@@ -40,7 +38,7 @@ class BirdDetailsFragment : Fragment() {
                 binding.imageBird.setImageResource(birdData.imageResourceId)
                 binding.textBirdName.text = birdData.name
                 binding.textBirdDescription.text = birdData.description
-                binding.textBirdPoints.text = "Points: ${birdData.points}"
+                binding.textBirdPoints.text = "Chirps: ${birdData.points}"
             }
         }
     }
