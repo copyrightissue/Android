@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_view_item.xml",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_amphibian_detail.xml",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\fragment_amphibian_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_amphibian_list.xml",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\fragment_amphibian_list.xml"
+    }
+]

@@ -1,0 +1,9 @@
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\ui\AmphibianDetailFragment.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\ui\AmphibianViewModel.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\MainActivity.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\build\generated\source\navigation-args\debug\com\example\amphibians\ui\AmphibianListFragmentDirections.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\network\Amphibian.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\BindingAdapters.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\ui\AmphibianListAdapter.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\network\AmphibianApiService.kt
+C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-amphibians-app\app\src\main\java\com\example\amphibians\ui\AmphibianListFragment.kt
