@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DA1F2</color> <!-- Twitter's blue -->
+    <color name="colorPrimaryDark">#1A91DA</color> <!-- A slightly darker blue -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White background -->
+    <color name="colorText">#14171A</color> <!-- Almost black text color -->
+    <!-- Add other colors as needed -->
+</resources>
