@@ -1,0 +1,30 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/birdListFragment">
+
+    <fragment
+        android:id="@+id/birdListFragment"
+        android:name="com.example.chitter.BirdListFragment"
+        android:label="Chitter: a birding app"
+        tools:layout="@layout/fragment_bird_list">
+
+        <action
+            android:id="@+id/action_birdListFragment_to_birdDetailsFragment"
+            app:destination="@id/birdDetailsFragment" />
+        <action
+            android:id="@+id/action_birdListFragment_to_birdDetailsFragment2"
+            app:destination="@id/birdDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/birdDetailsFragment"
+        android:name="com.example.chitter.BirdDetailsFragment"
+        android:label="Details"
+        tools:layout="@layout/fragment_bird_details">
+        <argument
+            android:name="birdId"
+            app:argType="integer" />
+    </fragment>
+</navigation>

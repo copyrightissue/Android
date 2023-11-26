@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_amphibian_detail.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\fragment_amphibian_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_animation.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_connection_error.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\drawable\\ic_connection_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_amphibian_list.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\fragment_amphibian_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_img.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\drawable\\loading_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\layout_list_view_item.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\zerocool\\AndroidStudioProjects\\android-basics-kotlin-amphibians-app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

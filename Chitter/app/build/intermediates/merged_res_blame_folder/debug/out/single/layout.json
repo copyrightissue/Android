@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-mergeDebugResources-44:\\layout\\fragment_bird_list.xml",
+        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\fragment_bird_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-mergeDebugResources-44:\\layout\\item_bird.xml",
+        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\item_bird.xml"
+    },
+    {
+        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-mergeDebugResources-44:\\layout\\fragment_bird_details.xml",
+        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\fragment_bird_details.xml"
+    },
+    {
+        "merged": "com.example.chitter.app-mergeDebugResources-44:/layout/fragment_bird_details.xml",
+        "source": "com.example.chitter.app-main-47:/layout/fragment_bird_details.xml"
+    }
+]
