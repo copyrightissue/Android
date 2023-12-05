@@ -42,6 +42,8 @@ layout fragment_bird_list
 layout item_bird
 menu menu_main
 mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 navigation nav_graph
 string action_settings

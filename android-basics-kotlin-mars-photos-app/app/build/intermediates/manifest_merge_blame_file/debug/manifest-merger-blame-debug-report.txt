@@ -21,94 +21,94 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="21"
-23-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml
+23-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="33" />
-24-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml
+24-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml
 25
 26    <uses-permission android:name="android.permission.INTERNET" />
-26-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:20:1-63
-26-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:20:18-60
+26-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:20:1-63
+26-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:20:18-60
 27
 28    <permission
-28-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+28-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 29        android:name="com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-29-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+29-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 30        android:protectionLevel="signature" />
-30-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+30-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 31
 32    <uses-permission android:name="com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-32-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-32-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+32-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 33
 34    <application
-34-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:21:5-36:19
+34-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:21:5-36:19
 35        android:allowBackup="true"
-35-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:22:9-35
+35-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:22:9-35
 36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-36-->[androidx.core:core:1.9.0] C:\Users\zerocool\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+36-->[androidx.core:core:1.9.0] C:\Users\roger\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 37        android:debuggable="true"
 38        android:icon="@mipmap/ic_launcher"
-38-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:23:9-43
+38-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:23:9-43
 39        android:label="@string/app_name"
-39-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:24:9-41
+39-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:24:9-41
 40        android:roundIcon="@mipmap/ic_launcher_round"
-40-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:25:9-54
+40-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:25:9-54
 41        android:supportsRtl="true"
-41-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:26:9-35
+41-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:26:9-35
 42        android:testOnly="true"
 43        android:theme="@style/Theme.MarsPhotos" >
-43-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:27:9-48
+43-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:27:9-48
 44        <activity
-44-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:28:9-35:20
+44-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:28:9-35:20
 45            android:name="com.example.android.marsphotos.MainActivity"
-45-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:28:19-77
+45-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:28:19-77
 46            android:exported="true" >
-46-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:29:13-36
+46-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:29:13-36
 47            <intent-filter>
-47-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:30:13-34:29
+47-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:30:13-34:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:31:17-69
-48-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:31:25-66
+48-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:31:17-69
+48-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:31:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:33:17-77
-50-->C:\Users\zerocool\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:33:27-74
+50-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:33:17-77
+50-->C:\Users\roger\AndroidStudioProjects\android-basics-kotlin-mars-photos-app\app\src\main\AndroidManifest.xml:33:27-74
 51            </intent-filter>
 52        </activity>
 53
 54        <uses-library
-54-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+54-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 55            android:name="androidx.window.extensions"
-55-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+55-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 56            android:required="false" />
-56-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+56-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 57        <uses-library
-57-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+57-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 58            android:name="androidx.window.sidecar"
-58-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+58-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 59            android:required="false" />
-59-->[androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+59-->[androidx.window:window:1.0.0] C:\Users\roger\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 60
 61        <provider
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 62            android:name="androidx.startup.InitializationProvider"
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
 63            android:authorities="com.example.android.marsphotos.androidx-startup"
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
 64            android:exported="false" >
-64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
 65            <meta-data
-65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
 67                android:value="androidx.startup" />
-67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\roger\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
 68            <meta-data
-68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roger\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roger\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
 70                android:value="androidx.startup" />
-70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\roger\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 71        </provider>
 72    </application>
 73

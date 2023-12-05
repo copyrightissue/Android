@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:paddingTop="8dp"
             android:textSize="18sp"
-            android:text="Points: " />
+            android:text="Chirps: " />
 
     </LinearLayout>
 </ScrollView>

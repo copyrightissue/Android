@@ -4,7 +4,7 @@
             "outputFile": "com.example.chitter.app-mergeDebugResources-43:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zerocool\\.gradle\\caches\\transforms-3\\974346c3fab476ea42f9b57345b2888f\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\roger\\.gradle\\caches\\transforms-3\\974346c3fab476ea42f9b57345b2888f\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

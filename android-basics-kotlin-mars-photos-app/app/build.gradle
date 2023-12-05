@@ -30,6 +30,9 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
+        def localProperties = new Properties()
+        localProperties.load(new FileInputStream(rootProject.file("local.properties")))
+        resValue "string", "api_key", localProperties.getProperty("api_key", "")
     }
 
     buildTypes {
