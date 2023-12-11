@@ -14,7 +14,7 @@ import androidx.appcompat.widget.SearchView
 import androidx.core.view.MenuHost
 import androidx.core.view.MenuProvider
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.viewModels
+import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.Lifecycle
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -22,7 +22,10 @@ import com.example.chitter.databinding.FragmentBirdListBinding
 
 class BirdListFragment : Fragment() {
 
-    private val viewModel: BirdViewModel by viewModels()
+    private val viewModel: BirdViewModel by activityViewModels {
+        val app = requireActivity().application as BirdApplication
+        BirdViewModelFactory(app.database.birdSightingDao())
+    }
     private var _binding: FragmentBirdListBinding? = null
     private val binding get() = _binding!!
     private lateinit var birdAdapter: BirdAdapter

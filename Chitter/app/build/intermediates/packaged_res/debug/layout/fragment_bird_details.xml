@@ -40,7 +40,13 @@
             android:layout_height="wrap_content"
             android:paddingTop="8dp"
             android:textSize="18sp"
-            android:text="Points: " />
+            android:text="Chirps: " />
+
+        <Button
+            android:id="@+id/saveSightingButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save Sighting" />
 
     </LinearLayout>
 </ScrollView>

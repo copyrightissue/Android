@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.databinding:viewbinding:7.3.0] C:\Users\zerocool\.gradle\caches\transforms-3\c34c431657f14edadb2f1fe4de897cdb\transformed\viewbinding-7.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-ktx:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\4c7e34585a11a4a95ed93c75b1277d20\transformed\room-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\zerocool\.gradle\caches\transforms-3\e613a0ad2950d3b7b523243e9796cf9b\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\zerocool\.gradle\caches\transforms-3\f181e7d0260e448d72e37db5b3a51d95\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\zerocool\.gradle\caches\transforms-3\3e33d46bc37c2c325b942ab03af738b6\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
@@ -31,6 +32,7 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\zerocool\.gradle\caches\tran
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\zerocool\.gradle\caches\transforms-3\98a03a80b40c0f8f9bf41d0fd2fe4a39\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\zerocool\.gradle\caches\transforms-3\643490792d90bf62763e5f162d5fab36\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\zerocool\.gradle\caches\transforms-3\8015f1ada3d601cdfb476204db004bd4\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\2fa0c00481567890af65f2e7c3575510\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\f53c444f61d9f7b7ab81e36bd308a098\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\be07c76966c213375032f5a13ba8b390\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -40,6 +42,8 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\zerocool\.gradle\caches\
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\0a1714b8f2da0a41edc8eb8244c766cb\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\41c37303da91b6a8789599427cb5526d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\839460efba33370caee64bb8d974067f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\a423e79f38ce3a6f76c8b91bc666fd66\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\6999141a21e8b7ed02d98164a8d37e0e\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\zerocool\.gradle\caches\transforms-3\f75a8e2e2d0c332c080cc21688c92923\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\5c42e7c46090962d4808b503e76328a9\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\ad129fcde7b182726fc3768888b3bf1e\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -61,33 +65,35 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\zero
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\zerocool\.gradle\caches\transforms-3\0f0c0d5f290e044a947d893a9c985a8b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\31dda11dc2b85cfa2f99701fc3b9af23\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\3eda74e1b70fb74ab59d9e032f5c6409\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\3d98e11be23c84ddefe8dbf5255c50a9\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\3d98e11be23c84ddefe8dbf5255c50a9\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\zerocool\.gradle\caches\transforms-3\8b4f214de2d095dfb99564e7c3784e37\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\zerocool\.gradle\caches\transforms-3\8b4f214de2d095dfb99564e7c3784e37\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\zerocool\.gradle\caches\transforms-3\66de3864502208188347c7c998a2315d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\zerocool\.gradle\caches\transforms-3\66de3864502208188347c7c998a2315d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\f4bfef788b8e67c0e5068e16583b55a9\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\f4bfef788b8e67c0e5068e16583b55a9\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\zerocool\.gradle\caches\transforms-3\f75a8e2e2d0c332c080cc21688c92923\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
@@ -101,49 +107,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ze
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\zerocool\.gradle\caches\transforms-3\ca456790fcba21938ad4e10347f2241c\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:11:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:9:9-54
 	android:roundIcon
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:12:9-54
 	tools:targetApi
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:15:9-29
 	android:icon
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:13:9-45
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:14:9-45
 	android:dataExtractionRules
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:8:9-65
+	android:name
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:6:9-40
 activity#com.example.chitter.MainActivity
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:15:9-25:20
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:16:9-26:20
 	android:label
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:19:13-45
 	android:exported
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:19:13-44
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:20:13-44
 	android:name
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\zerocool\AndroidStudioProjects\Chitter\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.3.0] C:\Users\zerocool\.gradle\caches\transforms-3\c34c431657f14edadb2f1fe4de897cdb\transformed\viewbinding-7.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.3.0] C:\Users\zerocool\.gradle\caches\transforms-3\c34c431657f14edadb2f1fe4de897cdb\transformed\viewbinding-7.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\4c7e34585a11a4a95ed93c75b1277d20\transformed\room-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\4c7e34585a11a4a95ed93c75b1277d20\transformed\room-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\zerocool\.gradle\caches\transforms-3\e613a0ad2950d3b7b523243e9796cf9b\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\zerocool\.gradle\caches\transforms-3\e613a0ad2950d3b7b523243e9796cf9b\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\zerocool\.gradle\caches\transforms-3\f181e7d0260e448d72e37db5b3a51d95\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
@@ -196,6 +206,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\z
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\zerocool\.gradle\caches\transforms-3\643490792d90bf62763e5f162d5fab36\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\zerocool\.gradle\caches\transforms-3\8015f1ada3d601cdfb476204db004bd4\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\zerocool\.gradle\caches\transforms-3\8015f1ada3d601cdfb476204db004bd4\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\2fa0c00481567890af65f2e7c3575510\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\2fa0c00481567890af65f2e7c3575510\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\f53c444f61d9f7b7ab81e36bd308a098\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
@@ -214,6 +226,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zer
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\41c37303da91b6a8789599427cb5526d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\839460efba33370caee64bb8d974067f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\zerocool\.gradle\caches\transforms-3\839460efba33370caee64bb8d974067f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\a423e79f38ce3a6f76c8b91bc666fd66\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\a423e79f38ce3a6f76c8b91bc666fd66\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\6999141a21e8b7ed02d98164a8d37e0e\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\zerocool\.gradle\caches\transforms-3\6999141a21e8b7ed02d98164a8d37e0e\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\zerocool\.gradle\caches\transforms-3\f75a8e2e2d0c332c080cc21688c92923\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\zerocool\.gradle\caches\transforms-3\f75a8e2e2d0c332c080cc21688c92923\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\5c42e7c46090962d4808b503e76328a9\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
@@ -278,6 +294,14 @@ ADDED from [androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\trans
 		ADDED from [androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\3d98e11be23c84ddefe8dbf5255c50a9\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [androidx.window:window:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\3d98e11be23c84ddefe8dbf5255c50a9\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.1] C:\Users\zerocool\.gradle\caches\transforms-3\149041739f546f10aff2e689d7b06f93\transformed\room-runtime-2.4.1\AndroidManifest.xml:26:13-74
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\zerocool\.gradle\caches\transforms-3\f4bfef788b8e67c0e5068e16583b55a9\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\zerocool\.gradle\caches\transforms-3\f75a8e2e2d0c332c080cc21688c92923\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

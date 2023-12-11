@@ -4,6 +4,7 @@ package com.example.chitter.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ScrollView;
 import android.widget.TextView;
@@ -24,6 +25,9 @@ public final class FragmentBirdDetailsBinding implements ViewBinding {
   public final ImageView imageBird;
 
   @NonNull
+  public final Button saveSightingButton;
+
+  @NonNull
   public final TextView textBirdDescription;
 
   @NonNull
@@ -33,10 +37,11 @@ public final class FragmentBirdDetailsBinding implements ViewBinding {
   public final TextView textBirdPoints;
 
   private FragmentBirdDetailsBinding(@NonNull ScrollView rootView, @NonNull ImageView imageBird,
-      @NonNull TextView textBirdDescription, @NonNull TextView textBirdName,
-      @NonNull TextView textBirdPoints) {
+      @NonNull Button saveSightingButton, @NonNull TextView textBirdDescription,
+      @NonNull TextView textBirdName, @NonNull TextView textBirdPoints) {
     this.rootView = rootView;
     this.imageBird = imageBird;
+    this.saveSightingButton = saveSightingButton;
     this.textBirdDescription = textBirdDescription;
     this.textBirdName = textBirdName;
     this.textBirdPoints = textBirdPoints;
@@ -75,6 +80,12 @@ public final class FragmentBirdDetailsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.saveSightingButton;
+      Button saveSightingButton = ViewBindings.findChildViewById(rootView, id);
+      if (saveSightingButton == null) {
+        break missingId;
+      }
+
       id = R.id.text_bird_description;
       TextView textBirdDescription = ViewBindings.findChildViewById(rootView, id);
       if (textBirdDescription == null) {
@@ -93,8 +104,8 @@ public final class FragmentBirdDetailsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentBirdDetailsBinding((ScrollView) rootView, imageBird, textBirdDescription,
-          textBirdName, textBirdPoints);
+      return new FragmentBirdDetailsBinding((ScrollView) rootView, imageBird, saveSightingButton,
+          textBirdDescription, textBirdName, textBirdPoints);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

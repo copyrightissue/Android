@@ -32,6 +32,7 @@ id bird_seen
 id image_bird
 id nav_graph
 id nav_host_fragment
+id saveSightingButton
 id submit_button
 id text_bird_description
 id text_bird_name
@@ -42,6 +43,8 @@ layout fragment_bird_list
 layout item_bird
 menu menu_main
 mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 navigation nav_graph
 string action_settings

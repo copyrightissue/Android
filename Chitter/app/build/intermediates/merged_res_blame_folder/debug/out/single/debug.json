@@ -1,154 +1,190 @@
 [
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_housesparrow.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_housesparrow.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-mdpi/ic_launcher_background.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xhdpi/ic_launcher_background.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_goldfinch.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_goldfinch.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\layout_fragment_bird_list.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\fragment_bird_list.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable-hdpi_ic_search.png.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable-hdpi\\ic_search.png"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-hdpi/ic_launcher_background.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_dove.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_dove.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_longspur.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_longspur.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\layout_item_bird.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\item_bird.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_dove.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_dove.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_chickadee.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_chickadee.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable-mdpi_ic_search.png.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable-mdpi\\ic_search.png"
+        "merged": "com.example.chitter.app-merged_res-49:/layout_fragment_bird_details.xml.flat",
+        "source": "com.example.chitter.app-main-51:/layout/fragment_bird_details.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\navigation\\nav_graph.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/menu_menu_main.xml.flat",
+        "source": "com.example.chitter.app-main-51:/menu/menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_cardinal.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_cardinal.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_cardinal.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_cardinal.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_bluejay.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_bluejay.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_robin.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_robin.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.example.chitter.app-main-51:/drawable-mdpi/ic_search.png"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable-xhdpi_ic_search.png.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable-xhdpi\\ic_search.png"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.example.chitter.app-main-51:/drawable-xxhdpi/ic_search.png"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\menu\\menu_main.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_hummingbird.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_hummingbird.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.example.chitter.app-main-51:/drawable-xhdpi/ic_search.png"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\xml\\backup_rules.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.example.chitter.app-main-51:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable-anydpi_ic_search.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable-anydpi\\ic_search.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxhdpi/ic_launcher_background.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_bluejay.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_bluejay.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable-xxhdpi_ic_search.png.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable-xxhdpi\\ic_search.png"
+        "merged": "com.example.chitter.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.example.chitter.app-main-51:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_goldfinch.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_goldfinch.jpeg"
     },
     {
-        "merged": "com.example.chitter.app-merged_res-45:/drawable_img_longspur.jpeg.flat",
-        "source": "com.example.chitter.app-main-47:/drawable/img_longspur.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\layout_fragment_bird_details.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\fragment_bird_details.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_crow.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_crow.jpeg"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_chickadee.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_chickadee.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.example.chitter.app-main-51:/drawable-hdpi/ic_search.png"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_crow.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_crow.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\layout\\activity_main.xml"
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-merged_res-45:\\drawable_img_longspur.jpeg.flat",
-        "source": "C:\\Users\\zerocool\\.gradle\\daemon\\7.4.1\\com.example.chitter.app-main-47:\\drawable\\img_longspur.jpeg"
+        "merged": "com.example.chitter.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.chitter.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_hummingbird.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_hummingbird.jpeg"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.chitter.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_housesparrow.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_housesparrow.jpeg"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/drawable-anydpi_ic_search.xml.flat",
+        "source": "com.example.chitter.app-main-51:/drawable-anydpi/ic_search.xml"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.example.chitter.app-main-51:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/layout_fragment_bird_list.xml.flat",
+        "source": "com.example.chitter.app-main-51:/layout/fragment_bird_list.xml"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/drawable_img_robin.jpeg.flat",
+        "source": "com.example.chitter.app-main-51:/drawable/img_robin.jpeg"
+    },
+    {
+        "merged": "com.example.chitter.app-merged_res-49:/layout_item_bird.xml.flat",
+        "source": "com.example.chitter.app-main-51:/layout/item_bird.xml"
     }
 ]

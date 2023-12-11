@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chitter.app-mergeDebugResources-43:/values-hy/values-hy.xml",
+            "outputFile": "com.example.chitter.app-mergeDebugResources-47:/values-hy/values-hy.xml",
             "map": [
                 {
                     "source": "C:\\Users\\zerocool\\.gradle\\caches\\transforms-3\\8d191a567aef0431c49cac53cde03f51\\transformed\\navigation-ui-2.5.0\\res\\values-hy\\values-hy.xml",

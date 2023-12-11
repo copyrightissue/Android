@@ -9,6 +9,7 @@
         android:targetSdkVersion="31" />
 
     <application
+        android:name="com.example.chitter.BirdApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -39,6 +40,11 @@
         <uses-library
             android:name="androidx.window.sidecar"
             android:required="false" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
