@@ -38,8 +38,8 @@
 
                 android:hint="Title"
                 android:inputType="text"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -53,7 +53,7 @@
                 android:gravity="start|top"
                 android:hint="Type something..."
                 android:inputType="textMultiLine"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textColorHint="@color/hintColor"
                 android:textSize="16sp" />
 

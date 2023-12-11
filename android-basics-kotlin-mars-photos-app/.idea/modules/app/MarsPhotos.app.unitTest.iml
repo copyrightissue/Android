@@ -246,4 +246,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.moshi:moshi-kotlin:1.13.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.0" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="MarsPhotos.app.main" />
 </module>
