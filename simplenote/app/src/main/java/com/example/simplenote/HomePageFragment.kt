@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
 
-import com.example.simplenote.R
+
 import com.example.simplenote.database.Note
 import com.example.simplenote.databinding.FragmentHomePageBinding
 

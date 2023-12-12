@@ -10,37 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="901bf4c3-06b1-46a9-bdb5-7cdd7823df3f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-amphibians-app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-basics-kotlin-amphibians-app/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-amphibians-app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-basics-kotlin-amphibians-app/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app" beforeDir="false" afterPath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-lemonade-app" beforeDir="false" afterPath="$PROJECT_DIR$/../android-basics-kotlin-lemonade-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/MarsPhotos.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/MarsPhotos.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/MarsPhotos.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/MarsPhotos.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_home_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_home_page.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_new_note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_new_note.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_update_note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/fragment_update_note.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/note_layout_adapter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/layout/note_layout_adapter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../simplenote/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

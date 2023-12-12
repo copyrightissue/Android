@@ -1,7 +1,7 @@
 package com.example.simplenote
-import android.annotation.SuppressLint
+
 import android.view.LayoutInflater
-import android.view.View
+
 import android.view.ViewGroup
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.AsyncListDiffer
@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.simplenote.database.Note
 import com.example.simplenote.databinding.NoteLayoutAdapterBinding
 
-import com.squareup.picasso.Picasso
+
 
 class NoteAdapter:RecyclerView.Adapter<NoteAdapter.NoteViewHolder>() {
 
@@ -19,7 +19,7 @@ class NoteAdapter:RecyclerView.Adapter<NoteAdapter.NoteViewHolder>() {
         :RecyclerView.ViewHolder(itemBinding.root)
 
 
-    //check whether two items have the same data. This will compare whole object
+    //check whether two items have the same data
     private val differCallback =
         object : DiffUtil.ItemCallback<Note>() {
             override fun areItemsTheSame(oldItem: Note, newItem: Note): Boolean {

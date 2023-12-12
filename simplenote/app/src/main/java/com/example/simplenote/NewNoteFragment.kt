@@ -8,7 +8,7 @@ import com.example.simplenote.database.Note
 import com.example.simplenote.databinding.FragmentNewNoteBinding
 import com.google.android.material.snackbar.Snackbar
 
-import com.squareup.picasso.Picasso
+
 import java.text.SimpleDateFormat
 import java.util.*
 

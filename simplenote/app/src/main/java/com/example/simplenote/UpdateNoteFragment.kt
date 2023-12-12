@@ -1,5 +1,5 @@
 package com.example.simplenote
-import android.annotation.SuppressLint
+
 import android.app.AlertDialog
 import android.os.Bundle
 import android.view.*
@@ -11,7 +11,7 @@ import com.example.simplenote.database.Note
 import com.example.simplenote.databinding.FragmentUpdateNoteBinding
 import com.google.android.material.snackbar.Snackbar
 
-import com.squareup.picasso.Picasso
+
 import java.text.SimpleDateFormat
 import java.util.*
 
